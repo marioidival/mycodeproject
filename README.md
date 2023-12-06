@@ -10,7 +10,7 @@ In the `server` project directory, you should run:
 Server URL: [http://localhost:8082](http://localhost:8082)
 
 ## Frontend - template viewer app
-In the root project directory, you should run:
+In the `template-viewer-app` directory, you should run:
 
 -  `npm install`
 -  `npm start`
